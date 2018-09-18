@@ -1,0 +1,10 @@
+C:\Users\bdeshpande\source\repos\Hotels\Hotels\bin\Debug\Hotels.dll.config
+C:\Users\bdeshpande\source\repos\Hotels\Hotels\bin\Debug\Hotels.dll
+C:\Users\bdeshpande\source\repos\Hotels\Hotels\bin\Debug\Hotels.pdb
+C:\Users\bdeshpande\source\repos\Hotels\Hotels\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bdeshpande\source\repos\Hotels\Hotels\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bdeshpande\source\repos\Hotels\Hotels\obj\Debug\Hotels.csproj.CoreCompileInputs.cache
+C:\Users\bdeshpande\source\repos\Hotels\Hotels\obj\Debug\Hotels.csproj.CopyComplete
+C:\Users\bdeshpande\source\repos\Hotels\Hotels\obj\Debug\Hotels.dll
+C:\Users\bdeshpande\source\repos\Hotels\Hotels\obj\Debug\Hotels.pdb
+C:\Users\bdeshpande\source\repos\Hotels\Hotels\obj\Debug\Hotels.csprojAssemblyReference.cache
