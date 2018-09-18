@@ -1,0 +1,27 @@
+[
+    {
+        HotelId : 1, 
+        HotelName : "Hayatt", 
+        HotelAddress : "Pune", 
+        HotelRatings : 5     
+    },
+    {
+        HotelId : 2, 
+        HotelName : "Radisson Blu", 
+        HotelAddress : "Nagpur", 
+        HotelRatings : 5 
+    },
+    { 
+        HotelId : 3, 
+        HotelName : "Center Point", 
+        HotelAddress : "Hyderabad", 
+        HotelRatings : 3 
+    },
+    { 
+        HotelId : 4, 
+        HotelName : "Pride", 
+        HotelAddress : "Delhi",
+        HotelRatings : 3 
+    }
+
+]
